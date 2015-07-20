@@ -1,0 +1,55 @@
+/*
+ * Type
+ */
+
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+body {
+    @include font-size(16);
+    font-family: $body-font-family;
+    line-height: $base-line-height;
+    color: $black;
+
+    @media #{$medium-up} {
+        @include font-size(18);
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+    color: $grey1;
+}
+
+h1 {
+    @include font-size($h1-size);
+}
+
+h2 {
+    @include font-size($h2-size);
+}
+
+h3 {
+    @include font-size($h3-size);
+}
+
+h4 {
+    @include font-size($h4-size);
+}
+
+h5 {
+    @include font-size($h5-size);
+}
+
+h6 {
+    @include font-size($h6-size);
+}

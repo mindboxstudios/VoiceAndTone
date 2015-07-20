@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+
+        {{ content }}
+
+        {% include footer.html %}
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="/js/headings.js"></script>
+        <script src="/js/smooth-scroll.js"></script>
+        <script src="/js/sticky.js"></script>
+        <script src="/js/active.js"></script>
+
+        <script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='https://www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create','UA-6090570-2','auto');ga('send','pageview');</script>
+    </body>
+</html>

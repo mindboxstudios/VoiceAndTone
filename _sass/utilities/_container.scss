@@ -1,0 +1,20 @@
+/*
+ * Container
+ */
+
+.container {
+    display: block;
+    max-width: rem-calc($container-max-width);
+    margin: 0 auto;
+    padding-left: rem-calc(10);
+    padding-right: rem-calc(10);
+
+    @include flexbox;
+    @include flex-direction(row);
+    @include flex-wrap(wrap);
+}
+
+.container-padding-only {
+    padding-left: rem-calc(10);
+    padding-right: rem-calc(10);
+}

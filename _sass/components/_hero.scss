@@ -1,0 +1,37 @@
+/*
+ * Hero
+ */
+
+.hero {
+    display: table;
+    width: 100%;
+    height: rem-calc(500);
+
+    background-color: $black;
+    background-position: center center;
+    -webkit-background-size: cover;
+       -moz-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+
+    .hero__text {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    h1, h2 {
+        color: $font-color;
+        margin: 0;
+    }
+
+    h1 {
+        @media #{$medium-up} {
+            @include font-size(60);
+        }
+    }
+
+    h2 {
+        font-family: $body-font-family;
+    }
+}

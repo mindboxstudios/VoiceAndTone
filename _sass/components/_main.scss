@@ -1,0 +1,19 @@
+/*
+ * Main
+ */
+
+.main {
+    @include order(2);
+    @include flex(0 0 100%);
+
+    margin: rem-calc(50 - $base-font-size) 0;
+
+    @media #{$medium-up} {
+        @include flex(3);
+        padding-left: rem-calc(10);
+    }
+
+    h1 {
+        margin: 0;
+    }
+}

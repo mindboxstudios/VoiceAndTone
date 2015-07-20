@@ -1,0 +1,35 @@
+/*
+ * Footer
+ */
+
+.footer {
+    font-size: $small-font-size;
+    background-color: $black;
+    color: $white;
+}
+
+.multicolor-bar {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    font-size: 0;
+
+    li {
+        display: inline-block;
+        height: 5px;
+        width: (1/3) * 100%;
+    }
+
+    li:nth-child(1) {
+        background: $red;
+    }
+
+    li:nth-child(2) {
+        background: $blue;
+    }
+
+    li:nth-child(3) {
+        background: $yellow;
+    }
+}
