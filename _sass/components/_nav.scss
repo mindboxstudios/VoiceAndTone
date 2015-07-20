@@ -11,8 +11,8 @@
 
         .nav__img {
             display: inline-block;
-            margin-top: rem-calc(10);
-            margin-bottom: rem-calc(10);
+            margin-top: rem-calc(10px);
+            margin-bottom: rem-calc(10px);
         }
     }
 
@@ -22,7 +22,7 @@
         margin: 0;
 
         text-align: center;
-        font-size: rem-calc(14);
+        font-size: rem-calc(14px);
         font-family: $heading-font-family;
         font-weight: 600;
         text-transform: uppercase;

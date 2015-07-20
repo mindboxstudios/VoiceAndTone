@@ -6,11 +6,11 @@
     @include order(2);
     @include flex(0 0 100%);
 
-    margin: rem-calc(50 - $base-font-size) 0;
+    margin: rem-calc(50px - $base-font-size) 0;
 
     @media #{$medium-up} {
         @include flex(3);
-        padding-left: rem-calc(10);
+        padding-left: rem-calc(10px);
     }
 
     h1 {

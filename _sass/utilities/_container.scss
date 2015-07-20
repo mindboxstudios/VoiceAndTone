@@ -6,8 +6,8 @@
     display: block;
     max-width: rem-calc($container-max-width);
     margin: 0 auto;
-    padding-left: rem-calc(10);
-    padding-right: rem-calc(10);
+    padding-left: rem-calc(10px);
+    padding-right: rem-calc(10px);
 
     @include flexbox;
     @include flex-direction(row);
@@ -15,6 +15,6 @@
 }
 
 .container-padding-only {
-    padding-left: rem-calc(10);
-    padding-right: rem-calc(10);
+    padding-left: rem-calc(10px);
+    padding-right: rem-calc(10px);
 }

@@ -15,13 +15,13 @@ html {
 }
 
 body {
-    @include font-size(16);
+    @include font-size(16px);
     font-family: $body-font-family;
     line-height: $base-line-height;
     color: $black;
 
     @media #{$medium-up} {
-        @include font-size(18);
+        @include font-size(18px);
     }
 }
 
