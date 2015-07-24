@@ -1,6 +1,6 @@
 ---
 title: "Voice and Tone Guide"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam necessitatibus totam numquam aperiam earum, non recusandae odio possimus autem."
+description: "This is the ultimate guide to knowing the personality of Mindbox Studios. Whether you’re writing a blog post for our website or slacking a funny gif to the #random room, we have a way of doing things and we would love for you to explore them."
 layout: guide
 ---
 
