@@ -103,10 +103,10 @@ Italic, bold, caps, and underline are beautiful things when used in moderation. 
 
 Continental United States time zones:
 
-Eastern time (EST)
-Central time (CST)
-Mountain time (MST)
-Pacific time (PST)
+- Eastern time (EST)
+- Central time (CST)
+- Mountain time (MST)
+- Pacific time (PST)
 
 # Vocab Lesson
 
@@ -162,7 +162,7 @@ We call it a graveyard for a reason. Consider every word and phrase within the g
 
 **“We update websites”** – Once again, yes—we do. But that isn’t it. We can do far beyond simple updates to websites.
 
-**“We only work with early-stage entrepreneurs” – Although we enjoy the work we get from this group, we need to continue growing beyond it in order to see sustainable growth.
+**“We only work with early-stage entrepreneurs”** – Although we enjoy the work we get from this group, we need to continue growing beyond it in order to see sustainable growth.
 
 **“We’re a startup”** – We used to be but we’re not anymore. In many ways our culture still feels like a startup, but nine years of business has taught us things we now confidently share with our clients. We also know how to help our clients while maintaining a profit margin in our business. Most startups are either pre-revenue or pre-profit.
 
