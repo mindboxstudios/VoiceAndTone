@@ -113,17 +113,29 @@ Pacific time (PST)
 We have some unique vocabulary in our repertoire. Some are tech and business related, and some are just the way we speak. This list is forever growing. Feel free to add to it whenever you would like. Without further ado, I present to you the Mindbox Vocab Lesson. Prepare to get schooled. 
 
 **“Atrium”** – A magical land where all projects are divvied up and assigned to employees. This is also where all hours are tracked. Atrium may or may not be the center of the universe.
+
 **“Bruh”** – A way of greeting a male friend or acquaintance. Originated in the bay area. Short for the common term, brother. Bruh-ther. Not broh-ther. It makes more sense to use this word.
+
 **“Designers”** – Designers give life to a website or application’s interface by focusing on usability and client goals.
+
 **“Developers”** – Look around the room. These are the guys blasting techno music through their giant headphones while typing code faster than you can speak english.
+
 **“Foos”** – A combination of soccer and shish kebobs, more commonly known as Foosball. This term is more than a word. It’s a way of life. It is a noun, verb, and adjective. I would recommend you begin training… now.
+
 **“MVP”** – Minimum Viable Product (essentially version 1.0) 
+
 **“Open Mic”** – An occasional meeting that is formally informal. It’s a free for all to throw out ideas, comments, concerns. Its purpose is to get everyone on the same page.
+
 **“Project Leads”** – If Mindbox were a car, these guys are the drivers and navigators. They may not know how to build the car, but they know how it works and where it is supposed to go. Project leads manage projects internally, effectively guiding all work through our development and production pipelines, while also communicating and strategizing with clients. 
+
 **“Stand Up”** – An all-company meeting that takes place everyday from 11:30am-12:00pm. We discuss what projects are being worked on, what tickets are being completed, and when tasks will be completed.
+
 **“Scope of work”** – The area in an agreement where the work to be performed is described. The SOW should contain any milestones, reports, deliverables, and end products that are expected to be provided by Mindbox Studios. The SOW should also contain a time line for all deliverables.
+
 **“Stand Up”** – An all-company meeting that takes place everyday from 11:30am-12:00pm. We discuss what projects are being worked on, what tickets are being completed, and when tasks will be completed.
+
 **“Ticket”** – This is an item created within Atrium that tells the assignee all of the details needed to complete the task, including how long it will take. 
+
 **“UX”** – This is an acronym for user experience. It is the overall experience of a person using a product such as a website or computer application, especially in terms of how easy or pleasing it is to use.
 
 # Vocab Graveyard
@@ -131,15 +143,27 @@ We have some unique vocabulary in our repertoire. Some are tech and business rel
 We call it a graveyard for a reason. Consider every word and phrase within the graveyard to be dead. These are words and phrases that we want to avoid as a company so we don’t miscommunicate who we are and what we do best. Take a gander at some of the tomb stones:
 
 **“Basic”** – Nothing we do is basic. It might be simple, but never basic.
+
 **“Bug fixes are free”** – We all know that this isn’t true. Therefore, lets not spread it.
+
 **“Click Here!”** – Potentially the worst call-to-action ever created. Just don’t use it. I’m beggin you.
+
 **“Design-first”** – This is known as a bad practice in the tech industry. We aren’t design-first, but we are design-driven and UX-centered.
+
 **“Fixed bid”** – This just isn’t how Mindbox functions. Almost never will a client receive a fixed bid for a project. We will always give them an estimation for expenses based on hours worked on the project.
+
 **“In conclusion”** – Sounds like an academic research paper. You have more personality than that!
+
 **“Small”** – While the team may have less people than other companies, the audience we can reach is much greater than other teams our size could reach; we do not necessarily want to insinuate that there is a size cap for Mindbox's work.
+
 **Swear words** – Come on people, we can’t cuss.
+
 **“We build websites”** – We do so much more than build websites.
+
 **“We update websites”** – Once again, yes—we do. But that isn’t it. We can do far beyond simple updates to websites.
+
 **“We only work with early-stage entrepreneurs” – Although we enjoy the work we get from this group, we need to continue growing beyond it in order to see sustainable growth.
+
 **“We’re a startup”** – We used to be but we’re not anymore. In many ways our culture still feels like a startup, but nine years of business has taught us things we now confidently share with our clients. We also know how to help our clients while maintaining a profit margin in our business. Most startups are either pre-revenue or pre-profit.
+
 **“Wordpress shop”** – Yes, we can build a really awesome Wordpress site, but we aren’t limited to Wordpress. We have the ability to create amazing custom software.
