@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit quae voluptatem ab
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit molestias, quo perspiciatis quibusdam incidunt cumque quisquam tempore, explicabo nam repudiandae nisi sed. Omnis nobis quas quod repellat non reiciendis ipsam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, quis! Corrupti eius quo in vel qui delectus ex sunt quaerat quod iure earum quisquam aut, iusto cupiditate numquam animi vero. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ut quia ea consequuntur repudiandae, maiores modi animi qui, laudantium quaerat dignissimos sequi blanditiis. Sit fugit quisquam nostrum, alias vero. Ut.
 
-# The Mindbox Personality
+# The Personality
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt tempore, sed, at magni iusto tempora molestias id molestiae ullam. Laudantium nostrum quibusdam illo sed nobis quae quia dolore enim aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, velit, quis! Eius odit velit architecto quia repudiandae tenetur perferendis animi. Laborum aliquid voluptate aspernatur assumenda inventore. Amet provident sunt pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, minima nobis quas quae fugiat quibusdam aspernatur inventore sapiente natus accusantium voluptas dicta, praesentium alias mollitia ipsa itaque autem, asperiores ad.
 
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor assumenda aspern
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod totam, obcaecati ex rem facilis! Dolorum nisi asperiores, dicta, eum doloribus tempora illum, neque illo commodi provident recusandae totam laudantium autem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores molestias voluptatibus animi tempora inventore beatae fuga, veniam corrupti praesentium quae quaerat eveniet commodi quia distinctio officia nihil quod, neque, necessitatibus?
 
-# Mindbox Grammar Lesson
+# Grammar Lesson
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et deserunt, culpa fugit explicabo quos, velit itaque porro esse officiis, quaerat dolores? Deserunt nemo enim sint omnis adipisci eveniet maxime praesentium. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique quam vel sunt repudiandae itaque laudantium magni, et asperiores praesentium tenetur unde porro ipsa cum alias amet, ducimus ex accusantium corrupti! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti odit dolore beatae, iste eos inventore dolores amet libero! Quidem quibusdam est autem neque placeat, aut totam, beatae excepturi fugiat modi.
 
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam sapiente commod
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, esse dicta inventore impedit fuga aut sequi quidem ut temporibus ullam vel earum adipisci quia alias explicabo totam delectus, natus aliquid!
 
-# Mindbox Vocab Lesson
+# Vocab Lesson
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam id dolorem doloribus, quia est eius quisquam provident fugit temporibus! Dolorum voluptatem id repellendus aperiam, dolorem sapiente eum doloribus, dolore culpa? Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, harum, quidem. Veritatis, asperiores eaque aspernatur. Facilis aspernatur corporis, cupiditate tempora nam maxime, eius doloremque officia, voluptates numquam neque fugit perspiciatis.
 
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis doloremque 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, explicabo nostrum perspiciatis voluptas quaerat amet reiciendis, laboriosam deleniti, officia molestias quae sapiente architecto voluptates possimus officiis nemo maxime laudantium cumque!
 
-# Mindbox Vocab Graveyard
+# Vocab Graveyard
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum soluta, iste eos a, quo enim labore doloremque reprehenderit consequatur eius ea qui maxime, dolorem quaerat sint dolorum facilis mollitia atque.
 
