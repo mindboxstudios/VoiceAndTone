@@ -4,7 +4,9 @@ description: "This is the ultimate guide to knowing the personality of Mindbox S
 layout: guide
 ---
 
-If you are reading this right now, we like you enough to let you write for Mindbox Studios in some way, shape, or form. Well played. Whether you are writing a blog post for our website or slacking a funny gif to the #random room, we have a way of doing things here. Before we start this journey of exploring the Mindbox brand and how you can best portray it, let’s cover a few things. First, this is a forever growing and changing document. It is alive! Nothing on this document is set in stone. If you disagree with anything on this document or have something to add, let someone know and we can work together to make this the best fit for Mindbox Studios. Second, this wasn’t created to be a set of rules you *must* abide by— simply some tips and tricks to help you write effectively while sticking to the Mindbox brand. 
+If you are reading this right now, we like you enough to let you write for Mindbox Studios in some way, shape, or form. Well played. Whether you are writing a blog post for our website or slacking a funny gif to the #random room, we have a way of doing things here. Before we start this journey of exploring the Mindbox brand and how you can best portray it, let’s cover a few things.
+
+First, this is a forever growing and changing document. It is alive! Nothing on this document is set in stone. If you disagree with anything on this document or have something to add, let someone know and we can work together to make this the best fit for Mindbox Studios. Second, this wasn’t created to be a set of rules you *must* abide by— simply some tips and tricks to help you write effectively while sticking to the Mindbox brand. 
 
 Now that that’s out of the way, let’s get to the fun stuff.
 
@@ -45,33 +47,39 @@ Now that you are a little more familiar with what Mindbox Studios stands for, le
 And just incase the phrases aren’t enough, here are examples of how (and how not) to articulate these characteristics.
 
 **Design-driven and business-minded:**
-Yes: We sit at the intersection of beautiful design and technical function, while leveraging years of business model development experience to help businesses achieve their technical and financial goals.
-No: We can build you the sickest website on this side of the Mississippi.
+
+- Yes: We sit at the intersection of beautiful design and technical function, while leveraging years of business model development experience to help businesses achieve their technical and financial goals.
+- No: We can build you the sickest website on this side of the Mississippi.
 
 **Energetic and creative:**
-Yes: If you are trying to boost your sales, consider our recommended e-commerce platform to make your product more accessible to consumers and lower your overhead.
-No: It’s a bummer no one is buying your product. You should probably invest more into advertising.
+
+- Yes: If you are trying to boost your sales, consider our recommended e-commerce platform to make your product more accessible to consumers and lower your overhead.
+- No: It’s a bummer no one is buying your product. You should probably invest more into advertising.
 
 **Passionate and capable:**
-Yes: We have a vested interest in seeing you succeed, but we don’t want to see you dive in without feeling confident of the first step. We can help you channel your questions into a research study that can refine your MVP and make sure you aren’t wasting your resources or investments.
-No: How about we just set you up with a simple wordpress site and see what kind of traffic you receive organically?
+
+- Yes: We have a vested interest in seeing you succeed, but we don’t want to see you dive in without feeling confident of the first step. We can help you channel your questions into a research study that can refine your MVP and make sure you aren’t wasting your resources or investments.
+- No: How about we just set you up with a simple wordpress site and see what kind of traffic you receive organically?
 
 **Fun but focused:**
-Yes: I just powered through cost reports and need to get the blood pumping. Anyone down for a quick game of foosball?
-No: Let’s set up a round robin tournament of foosball to determine the best player in the office. Cost reports can wait for tomorrow.
+
+- Yes: I just powered through cost reports and need to get the blood pumping. Anyone down for a quick game of foosball?
+- No: Let’s set up a round robin tournament of foosball to determine the best player in the office. Cost reports can wait for tomorrow.
 
 **Intelligent but not pretentious:**
-Yes: With our experience in the industry, we have noticed beautiful custom websites tend to drive the most traffic, in return, giving you the most business.
-No: When it comes to custom websites— we are the best of the best. Let us build you a sweet website while you sit back and count your money. 
+
+- Yes: With our experience in the industry, we have noticed beautiful custom websites tend to drive the most traffic, in return, giving you the most business.
+- No: When it comes to custom websites— we are the best of the best. Let us build you a sweet website while you sit back and count your money. 
 
 **Conversational but professional:**
-Yes: The 2.0 website is almost finished! The new updates consist of an appointment scheduler, an e-commerce page, and a “full face-lift” of website aesthetics. We plan on pushing this updated site live on Thursday, May 26th.
-No: We have a few more bugs to fix on 2.0. We added in a super smooth scheduler plug-in, added e-commerce, and cleaned up the looks. It should be ready on Thursday.
+
+- Yes: The 2.0 website is almost finished! The new updates consist of an appointment scheduler, an e-commerce page, and a “full face-lift” of website aesthetics. We plan on pushing this updated site live on Thursday, May 26th.
+- No: We have a few more bugs to fix on 2.0. We added in a super smooth scheduler plug-in, added e-commerce, and cleaned up the looks. It should be ready on Thursday.
 
 
 # Writing for Us
 
-**Blog**: If you're struggling to get out your words or have a great idea but no time to put it on paper, get in touch with the media manager. You can talk through your ideas, fill out a quick questionnaire, and then a draft can be put together for you. 
+**Blog**: If you're struggling to get out your words or have a great idea but no time to put it on paper, get in touch with the media manager. You can talk through your ideas, fill out a quick [questionnaire](https://goo.gl/g64IKJ), and then a draft can be put together for you. 
 
 **External Emails**: You are still representing our company, team, and mission. Be personable and have your own voice, but remember to stick close to the Mindbox tone. And most importantly, always re-read your emails before you send them!
 
