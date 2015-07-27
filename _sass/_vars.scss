@@ -24,8 +24,8 @@ $link-color: #ff554d;
 $font-color-hover: darken($font-color, 10%);
 $link-hover-color: darken($link-color, 10%);
 
-$heading-font-family: "Futura PT", Helvetica, Arial, sans-serif;
-$body-font-family:    "Playfair Display", Helvetica, Arial, sans-serif;
+$heading-font-family: "futura-pt", Helvetica, Arial, sans-serif;
+$body-font-family:    "Playfair Display", serif;
 
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
